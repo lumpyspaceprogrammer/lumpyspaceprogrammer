@@ -1,7 +1,7 @@
 # HELLO 🌎 
 ## I'm SKATE BYRNE aka *LUMPYSPACEPROGRAMMER*
 
-| Learning      | Passions     | Hobbies  |
+| *《LEARNING》*     | *《PASSIONS》*    | *《HOBBIES》*|
 | ------------- |:-------------:| -----:|
 | Web Dev     | Rescuing Senior Dogs | Helping Others |
 | JavaScript  | Learning  |   Sewing Clothes |
@@ -9,15 +9,12 @@
 | Business  |  Living Beings Rights     | Teaching |
 
 
+> [!IMPORTANT]  
+> I'm going to the University of Advancing Technology to get my BA IN Digital Fabrication & Manufacturing
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IM GETTING THIS SPECIFIC DEGREE BECAUSE....
+○ I want to create with 3d design/printing on a large scale
+○ Also create robots with arduino
 
 
 
@@ -50,11 +47,6 @@
 
 
 
-
-💬 Ask me about ...- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
